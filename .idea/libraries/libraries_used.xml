@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="libraries used">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/libraries used/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries used/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries used/jlayer-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries used/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries used/javafx.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries used/JLayer-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries used/mysql-connector-j-8.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries used/jaxb-api-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries used/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries used/jaudiotagger-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries used/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries used/tika-app-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries used/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/libraries used/javafx-swt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
